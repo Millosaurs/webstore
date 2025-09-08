@@ -22,9 +22,9 @@ const nunito_sans = Nunito_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Gamestash webstore",
+  title: "webstore",
   description:
-    "Gamestash webstore is a platform for buying and selling products for minecraft. Buy Random Items, Sell Random Items, and more!",
+    "webstore is a platform for buying and selling products for minecraft. Buy Random Items, Sell Random Items, and more!",
 };
 
 export default function RootLayout({
